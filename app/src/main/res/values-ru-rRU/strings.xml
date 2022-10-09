@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">chap5 theme</string>
+    <string name="hello_my_name_is_maulana_ibnu">привет, меня зовут маулана ибну</string>
+    <string name="indonesia">Индонезия</string>
+    <string name="english">английский</string>
+    <string name="rusian">Россия</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">chap5 theme</string>
+    <string name="english">English</string>
+    <string name="indonesia">indonesia</string>
+    <string name="hello_my_name_is_maulana_ibnu">Hello my name is maulana ibnu</string>
+    <string name="rusian">Rusian</string>
+</resources>
